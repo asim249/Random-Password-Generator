@@ -1,5 +1,15 @@
 # 🔐 Random Password Generator
 
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Password Generator](https://img.shields.io/badge/Password-Generator-green)
+
+A simple yet powerful Random Password Generator built using HTML, CSS, and JavaScript.
+Easily generate secure passwords with customizable options for length, uppercase, lowercase, numbers, and symbols.
+
+# 🔐 Random Password Generator
+
 A simple yet powerful **Random Password Generator** built using **HTML, CSS, and JavaScript**.  
 Easily generate secure passwords with customizable options for length, uppercase, lowercase, numbers, and symbols.
 
