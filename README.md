@@ -8,11 +8,6 @@
 A simple yet powerful Random Password Generator built using HTML, CSS, and JavaScript.
 Easily generate secure passwords with customizable options for length, uppercase, lowercase, numbers, and symbols.
 
-# 🔐 Random Password Generator
-
-A simple yet powerful **Random Password Generator** built using **HTML, CSS, and JavaScript**.  
-Easily generate secure passwords with customizable options for length, uppercase, lowercase, numbers, and symbols.
-
 ---
 
 ## 📌 Features
