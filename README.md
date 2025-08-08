@@ -26,7 +26,7 @@ Easily generate secure passwords with customizable options for length, uppercase
 
 ## 🎥 Demo
 
-![Random Password Generator Demo](./gif/random password generator.gif)
+![Random Password Generator Demo](./gif/password-generator.gif)
 
 ---
 
