@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: linear-gradient(to right, #ffecd2, #fcb69f);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main {
+    background-color: #fff0f5;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    width: 360px;
+    transition: all 0.3s ease-in-out;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+#pass-box {
+    display: block;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 12px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #6a0572;
+    border: 2px dashed #d291bc;
+    word-break: break-all;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left {
+    font-size: 16px;
+    color: #4a4a4a;
+    font-weight: 500;
+}
+
+.right input[type="number"] {
+    width: 65px;
+    padding: 7px;
+    font-size: 16px;
+    border: 2px solid #d291bc;
+    border-radius: 10px;
+    outline: none;
+    text-align: center;
+    background-color: #fff;
+    color: #6a0572;
+}
+
+.right input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    accent-color: #ff6f61;
+}
+
+button#btn {
+    padding: 12px 24px;
+    font-size: 17px;
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin: auto;
+    display: block;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+button#btn:hover {
+    background-color: #d64a4a;
+    transform: scale(1.05);
+}
